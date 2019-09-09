@@ -1,0 +1,32 @@
+#iframe-container{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index:100;
+}
+.hide{
+    display: none;
+}
+#btn-back{
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 30;
+    width: 70px;
+    height: 31px;
+    outline: none;
+    border: none;
+    color: #3398c7;
+    background-color: #fff;
+    border-radius: 5px;
+    font-weight: 700;
+    cursor: pointer;
+}
+#btn-back:hover{
+    background-color: #e6e6e6;
+}
+#iframe{
+    width: 100%;
+    height: 100%;
+}

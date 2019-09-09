@@ -1,0 +1,21 @@
+.camera-map{
+    position: absolute;
+    bottom: 45px;
+    left: 42px;
+    width: 130px;
+    height: 115px;
+    z-index: 10;
+    cursor: pointer;
+}
+.camera-map img{
+    width: 100%;
+    height: 100%;
+}
+.camera-map p{
+    position: absolute;
+    bottom: 18px;
+    color: #fff;
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+}

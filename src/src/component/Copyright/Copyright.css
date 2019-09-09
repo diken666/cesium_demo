@@ -1,0 +1,15 @@
+.copyright{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom:17px;
+    right: 30px;
+    width: 500px;
+    height: 35px;
+    color: #fff;
+    background: linear-gradient(to right, rgba(0, 0, 0, .2), rgba(0, 0, 0, .5), rgba(0, 0, 0, .2));
+    font-size: 20px;
+    text-align: center;
+    z-index: 10;
+}

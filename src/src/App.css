@@ -1,0 +1,27 @@
+
+body, html, p, ul, li{
+  margin: 0;
+  padding: 0;
+}
+body{
+  overflow: hidden;
+  user-select: none;
+}
+li{
+  list-style: none;
+}
+
+.block{
+  display: block;
+}
+
+
+
+.cesium-viewer-bottom, .cesium-viewer-toolbar{
+  display: none;
+}
+
+
+
+
+
